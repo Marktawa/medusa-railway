@@ -97,6 +97,20 @@ If all is working you should see the storefront with products from your backend 
 GitHub: [@Marktawa](https://github.com/Marktawa)  
 Twitter: [@McMunyaka](https://twitter.com/McMunyaka)
 
+## Hire Me
+
+If you found this guide helpful and would like assistance in setting up your own Medusa-powered ecommerce store, I would be happy to help!
+As an experienced Medusa and Next.js developer, I can provide the following services:
+
+- Initial setup and configuration of your Medusa backend and Next.js storefront
+- Deployment of your Medusa store on AWS, Railway, Digital Ocean and any other platform
+- Integration with Neon Postgres, Stripe, Meilisearch, SendGrid, and other plugins
+- Customization and branding of your store's design and functionality
+- Ongoing maintenance, updates, and feature enhancements
+- Performance optimization and scaling guidance
+
+To discuss your project and get a quote, please feel free to contact me on [markmunyakapro@gmail.com](mailto:markmunyakapro@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mark-tawanda-munyaka-a878137b) or [Discord](https://discord.com/users/558354133170782254). I look forward to hearing from you!
+
 ## Sponsor
 
 Support my passion for sharing development knowledge by making a donation to my [**Buy Me a Coffee**](https://www.buymeacoffee.com/markmunyaka) account. Your contribution helps me create valuable content and resources. Thank you for your support!
