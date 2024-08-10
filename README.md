@@ -92,7 +92,7 @@ If all is working you should see the storefront with products from your backend 
 
 ## Author
 
-[Mark Munyaka](https://markmunyaka.com)
+[Mark Munyaka](https://marktawa.github.io/personal-portfolio)
 
 GitHub: [@Marktawa](https://github.com/Marktawa)  
 Twitter: [@McMunyaka](https://twitter.com/McMunyaka)
